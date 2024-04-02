@@ -4,7 +4,7 @@ const AboutUs = () => {
             <h4 className="mb30">About us</h4>
             <p className="first-para">
                 The all-new Volvo XC60 is a terrific luxury compact SUV.
-                It&apos;s been fully redesigned for 2017 and features
+                Its been fully redesigned for 2017 and features
                 improvements across the board. These changes bump the vehicle
                 from its previous midpack standing; it now resides with some of
                 the best in the class. Some of the most notable improvements

@@ -10,7 +10,7 @@ export default function SellCarPage() {
       <div>
         <h1>Sell Your Car</h1>
         <p>
-          Enter your car's registration number to get started:
+          Enter your cars registration number to get started
         </p>
         <p>
           <SellCarForm />

@@ -122,7 +122,7 @@ const BlogDynamicSingle = () => {
 
                   <div className="row mb40">
                     <div className="col-lg-12">
-                      <h4 className="mb20">What you&apos;ll learn</h4>
+                      <h4 className="mb20">What you ll learn</h4>
                     </div>
                     <Features />
                   </div>

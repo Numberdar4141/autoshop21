@@ -19,12 +19,12 @@ const Messages = () => {
     },
     {
       sender: "You",
-      text: "The project finally complete! Let`&apos;s go to!.",
+      text: "The project finally complete! Let`s go to!.",
       time: "35 mins",
     },
     {
       sender: "Albert Flores",
-      text: "Let`&apos;s go!",
+      text: "Let`s go!",
       time: "35 mins",
     },
   ];

@@ -7,7 +7,7 @@ export default function SellCar() {
     <div>
       <h1>Sell Your Car</h1>
       <p>
-        Enter your car's registration number to get started:
+        Enter your cars registration number to get started:
         <input
           type="text"
           value={registrationNumber}
@@ -15,7 +15,7 @@ export default function SellCar() {
         />
       </p>
       <p>
-        Your car's registration number is: <strong>{registrationNumber}</strong>
+        Your cars registration number is: <strong>{registrationNumber}</strong>
       </p>
     </div>
   )
